@@ -14,7 +14,7 @@ const refs = {
 	
 
 let fp;
-// Об єкт для властивостей бібліотеки flatpickr (пікер з календаря)
+
 const options = {
   enableTime: true,
   time_24hr: true,
